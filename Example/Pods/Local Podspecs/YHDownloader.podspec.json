@@ -1,0 +1,29 @@
+{
+  "name": "YHDownloader",
+  "version": "0.1.0",
+  "summary": "A short description of YHDownloader.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/redye/YHDownloader",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "redye": "sixwalnut@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/redye/YHDownloader.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "YHDownloader/Classes/**/*",
+  "public_header_files": "Pod/Classes/**/*.h",
+  "frameworks": "Foundation",
+  "dependencies": {
+    "AFNetworking": [
+
+    ]
+  }
+}
