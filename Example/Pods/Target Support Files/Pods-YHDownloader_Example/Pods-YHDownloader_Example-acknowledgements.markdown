@@ -26,7 +26,7 @@ THE SOFTWARE.
 
 ## YHDownloader
 
-Copyright (c) 2018 redye <yonghong.hu@weimob.com>
+Copyright (c) 2018 redye <sixwalnut@qq.com.com>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

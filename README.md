@@ -22,7 +22,7 @@ pod 'YHDownloader'
 
 ## Author
 
-redye, yonghong.hu@weimob.com
+redye, sixwalnut@qq.com.com
 
 ## License
 
